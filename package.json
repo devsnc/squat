@@ -1,0 +1,19 @@
+{
+  "name": "@devsnc/squat",
+  "version": "1.0.0",
+  "description": "Hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnc/squat.git"
+  },
+  "author": "Martin Wragg <mdwragg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsnc/squat/issues"
+  },
+  "homepage": "https://github.com/devsnc/squat#readme"
+}
